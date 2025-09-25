@@ -1,3 +1,4 @@
+"use client";
 import React from 'react';
 import { getProductById } from '../../../lib/products';
 import type { Product } from '../../../types';
